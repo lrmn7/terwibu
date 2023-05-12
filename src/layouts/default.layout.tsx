@@ -38,7 +38,7 @@ export default function DefaultLayout() {
                 },
               }}
             >
-              <Title order={1}>⛩ Terwibu-wibu</Title>
+              <Title order={1}>Terwibu-wibu ⛩</Title>
             </Anchor>
             <Group position='right' align='center' spacing='xs' mr='sm'>
               <MediaQuery smallerThan='sm' styles={hidden}>
