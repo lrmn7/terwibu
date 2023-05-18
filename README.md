@@ -37,7 +37,13 @@ Anime explorer, using data from AniList
 - [Install Mantine in Vite Project](https://mantine.dev/guides/vite/)
 - [Install urql for React](https://formidable.com/open-source/urql/docs/basics/react-preact/)
 - [Offline Cache in urql](https://formidable.com/open-source/urql/docs/graphcache/offline/)
+- 
+## Support me
+
+- 👉 🇮🇩 [Trakteer](https://trakteer.id/lrmn) free access
+- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/lrmn)
+- 👉 🌍 [Ko-Fi](https://ko-fi.com/lrmn7)
 
 ---
 
-© 2023, L RMN
+Copyright © 2020 by [L RMN](https://is-a.fun/)
